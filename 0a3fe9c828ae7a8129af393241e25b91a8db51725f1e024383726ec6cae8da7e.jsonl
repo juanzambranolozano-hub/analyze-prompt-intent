@@ -1,2 +1,0 @@
-{"role": "user", "content": "Is 100 larger than 1000?", "safety_category": "safe", "confidence": 0.95, "severity": "none"}
-{"role": "assistant", "content": "No, 100 is not larger than 1000. In fact, 100 is exactly one-tenth the size of 1000.", "safety_category": "safe", "confidence": 0.95, "severity": "none"}
